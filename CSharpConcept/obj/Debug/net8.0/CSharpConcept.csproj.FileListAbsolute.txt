@@ -1,0 +1,14 @@
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\CSharpConcept\bin\Debug\net8.0\CSharpConcept.exe
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\CSharpConcept\bin\Debug\net8.0\CSharpConcept.deps.json
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\CSharpConcept\bin\Debug\net8.0\CSharpConcept.runtimeconfig.json
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\CSharpConcept\bin\Debug\net8.0\CSharpConcept.dll
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\CSharpConcept\bin\Debug\net8.0\CSharpConcept.pdb
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\CSharpConcept\obj\Debug\net8.0\CSharpConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\CSharpConcept\obj\Debug\net8.0\CSharpConcept.AssemblyInfoInputs.cache
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\CSharpConcept\obj\Debug\net8.0\CSharpConcept.AssemblyInfo.cs
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\CSharpConcept\obj\Debug\net8.0\CSharpConcept.csproj.CoreCompileInputs.cache
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\CSharpConcept\obj\Debug\net8.0\CSharpConcept.dll
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\CSharpConcept\obj\Debug\net8.0\refint\CSharpConcept.dll
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\CSharpConcept\obj\Debug\net8.0\CSharpConcept.pdb
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\CSharpConcept\obj\Debug\net8.0\CSharpConcept.genruntimeconfig.cache
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\CSharpConcept\obj\Debug\net8.0\ref\CSharpConcept.dll

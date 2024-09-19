@@ -1,0 +1,14 @@
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\EmpDashboard\bin\Debug\net8.0\EmpDashboard.exe
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\EmpDashboard\bin\Debug\net8.0\EmpDashboard.deps.json
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\EmpDashboard\bin\Debug\net8.0\EmpDashboard.runtimeconfig.json
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\EmpDashboard\bin\Debug\net8.0\EmpDashboard.dll
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\EmpDashboard\bin\Debug\net8.0\EmpDashboard.pdb
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\EmpDashboard\obj\Debug\net8.0\EmpDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\EmpDashboard\obj\Debug\net8.0\EmpDashboard.AssemblyInfoInputs.cache
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\EmpDashboard\obj\Debug\net8.0\EmpDashboard.AssemblyInfo.cs
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\EmpDashboard\obj\Debug\net8.0\EmpDashboard.csproj.CoreCompileInputs.cache
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\EmpDashboard\obj\Debug\net8.0\EmpDashboard.dll
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\EmpDashboard\obj\Debug\net8.0\refint\EmpDashboard.dll
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\EmpDashboard\obj\Debug\net8.0\EmpDashboard.pdb
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\EmpDashboard\obj\Debug\net8.0\EmpDashboard.genruntimeconfig.cache
+C:\Users\6124613\OneDrive - Thomson Reuters Incorporated\Desktop\Desktop data\Automation Team\Selenium Training\SeleniumTrainingDay1\CSharpConcept\EmpDashboard\obj\Debug\net8.0\ref\EmpDashboard.dll

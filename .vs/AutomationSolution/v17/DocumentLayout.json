@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\6124613\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{899F8C73-9125-4EF8-8664-39D2D27CE91E}|EmpDashboard\\EmpDashboard.csproj|c:\\users\\6124613\\onedrive - thomson reuters incorporated\\desktop\\desktop data\\automation team\\selenium training\\seleniumtrainingday1\\csharpconcept\\empdashboard\\employeerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F8C73-9125-4EF8-8664-39D2D27CE91E}|EmpDashboard\\EmpDashboard.csproj|solutionrelative:empdashboard\\employeerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F8C73-9125-4EF8-8664-39D2D27CE91E}|EmpDashboard\\EmpDashboard.csproj|c:\\users\\6124613\\onedrive - thomson reuters incorporated\\desktop\\desktop data\\automation team\\selenium training\\seleniumtrainingday1\\csharpconcept\\empdashboard\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F8C73-9125-4EF8-8664-39D2D27CE91E}|EmpDashboard\\EmpDashboard.csproj|solutionrelative:empdashboard\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290DD38-6AAB-46C1-89DB-DFE97B2E4150}|..\\..\\..\\..\\..\\..\\..\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\SeleniumConcept2.csproj|c:\\users\\6124613\\desktop\\desktop data\\automation team\\selenium training\\seleniumtrainingday1\\csharpconcept\\seleniumconcept2\\demo2fbsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290DD38-6AAB-46C1-89DB-DFE97B2E4150}|..\\..\\..\\..\\..\\..\\..\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\SeleniumConcept2.csproj|c:\\users\\6124613\\desktop\\desktop data\\automation team\\selenium training\\seleniumtrainingday1\\csharpconcept\\seleniumconcept2\\demo3salesforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290DD38-6AAB-46C1-89DB-DFE97B2E4150}|..\\..\\..\\..\\..\\..\\..\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\SeleniumConcept2.csproj|c:\\users\\6124613\\desktop\\desktop data\\automation team\\selenium training\\seleniumtrainingday1\\csharpconcept\\seleniumconcept2\\demo1fblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC38BDC9-EE20-4336-86C6-D0A2759BD3D3}|..\\..\\..\\..\\..\\..\\..\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept1\\SeleniumConcept1.csproj|c:\\users\\6124613\\desktop\\desktop data\\automation team\\selenium training\\seleniumtrainingday1\\csharpconcept\\seleniumconcept1\\selenium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A65E49-C445-43F9-B3C6-7B7CF720897A}|CSharpConcept3\\CSharpConcept3.csproj|c:\\users\\6124613\\onedrive - thomson reuters incorporated\\desktop\\desktop data\\automation team\\selenium training\\seleniumtrainingday1\\csharpconcept\\csharpconcept3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A65E49-C445-43F9-B3C6-7B7CF720897A}|CSharpConcept3\\CSharpConcept3.csproj|solutionrelative:csharpconcept3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFEEA80-B04A-425C-8895-B20EBC84C2E7}|CSharpConcept2\\CSharpConcept2.csproj|c:\\users\\6124613\\onedrive - thomson reuters incorporated\\desktop\\desktop data\\automation team\\selenium training\\seleniumtrainingday1\\csharpconcept\\csharpconcept2\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFEEA80-B04A-425C-8895-B20EBC84C2E7}|CSharpConcept2\\CSharpConcept2.csproj|solutionrelative:csharpconcept2\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFEEA80-B04A-425C-8895-B20EBC84C2E7}|CSharpConcept2\\CSharpConcept2.csproj|c:\\users\\6124613\\onedrive - thomson reuters incorporated\\desktop\\desktop data\\automation team\\selenium training\\seleniumtrainingday1\\csharpconcept\\csharpconcept2\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFEEA80-B04A-425C-8895-B20EBC84C2E7}|CSharpConcept2\\CSharpConcept2.csproj|solutionrelative:csharpconcept2\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B259C0DF-5A09-43FC-9886-9155518CE9A7}|CSharpConcept\\CSharpConcept.csproj|c:\\users\\6124613\\onedrive - thomson reuters incorporated\\desktop\\desktop data\\automation team\\selenium training\\seleniumtrainingday1\\csharpconcept\\csharpconcept\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B259C0DF-5A09-43FC-9886-9155518CE9A7}|CSharpConcept\\CSharpConcept.csproj|solutionrelative:csharpconcept\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Demo3SalesForce.cs",
+              "DocumentMoniker": "C:\\Users\\6124613\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\Demo3SalesForce.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\Demo3SalesForce.cs",
+              "ToolTip": "C:\\Users\\6124613\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\Demo3SalesForce.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\Demo3SalesForce.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:59:53.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo2FBSignUp.cs",
+              "DocumentMoniker": "C:\\Users\\6124613\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\Demo2FBSignUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\Demo2FBSignUp.cs",
+              "ToolTip": "C:\\Users\\6124613\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\Demo2FBSignUp.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\Demo2FBSignUp.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:21:26.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Demo1FBLogin.cs",
+              "DocumentMoniker": "C:\\Users\\6124613\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\Demo1FBLogin.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\Demo1FBLogin.cs",
+              "ToolTip": "C:\\Users\\6124613\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\Demo1FBLogin.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept2\\Demo1FBLogin.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:35:04.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Selenium.cs",
+              "DocumentMoniker": "C:\\Users\\6124613\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept1\\Selenium.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept1\\Selenium.cs",
+              "ToolTip": "C:\\Users\\6124613\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept1\\Selenium.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\SeleniumConcept1\\Selenium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:07:17.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRunner.cs",
+              "DocumentMoniker": "C:\\Users\\6124613\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\EmpDashboard\\EmployeeRunner.cs",
+              "RelativeDocumentMoniker": "EmpDashboard\\EmployeeRunner.cs",
+              "ToolTip": "C:\\Users\\6124613\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\EmpDashboard\\EmployeeRunner.cs",
+              "RelativeToolTip": "EmpDashboard\\EmployeeRunner.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:50:27.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\6124613\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\EmpDashboard\\Employee.cs",
+              "RelativeDocumentMoniker": "EmpDashboard\\Employee.cs",
+              "ToolTip": "C:\\Users\\6124613\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\EmpDashboard\\Employee.cs",
+              "RelativeToolTip": "EmpDashboard\\Employee.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:46:06.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\6124613\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\CSharpConcept3\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpConcept3\\Program.cs",
+              "ToolTip": "C:\\Users\\6124613\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\CSharpConcept3\\Program.cs",
+              "RelativeToolTip": "CSharpConcept3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:46:31.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\6124613\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\CSharpConcept2\\Area.cs",
+              "RelativeDocumentMoniker": "CSharpConcept2\\Area.cs",
+              "ToolTip": "C:\\Users\\6124613\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\CSharpConcept2\\Area.cs",
+              "RelativeToolTip": "CSharpConcept2\\Area.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:08:52.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "C:\\Users\\6124613\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\CSharpConcept2\\Program2.cs",
+              "RelativeDocumentMoniker": "CSharpConcept2\\Program2.cs",
+              "ToolTip": "C:\\Users\\6124613\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\CSharpConcept2\\Program2.cs",
+              "RelativeToolTip": "CSharpConcept2\\Program2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:56:15.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "C:\\Users\\6124613\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\CSharpConcept\\Program1.cs",
+              "RelativeDocumentMoniker": "CSharpConcept\\Program1.cs",
+              "ToolTip": "C:\\Users\\6124613\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Desktop data\\Automation Team\\Selenium Training\\SeleniumTrainingDay1\\CSharpConcept\\CSharpConcept\\Program1.cs",
+              "RelativeToolTip": "CSharpConcept\\Program1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T04:44:13.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

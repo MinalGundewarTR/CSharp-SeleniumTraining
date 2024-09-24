@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmpDashboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d58a6009f3e4494b4730051048d63b0c2bfebd26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7d891f1dde9e2d278f8316a4d52023c2b39c2c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmpDashboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmpDashboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
